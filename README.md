@@ -8,6 +8,7 @@ Easy AF. Refer to [this guide](https://github.com/Patrick-Batenburg/GoogleChrome
 
 ## Credits
 Original theme and images were created by the author of [this extension](https://chrome.google.com/webstore/detail/black-amoled-x21-pure-bla/gmojgjlmlhclfdfheokkcjngkbiidkaf) (his name is Asana, I guess?)
+<br>
 A few bug fixes and overall look improvement (imo) done by me
                                                 
    
